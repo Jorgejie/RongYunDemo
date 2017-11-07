@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RYPushDemo</string>
+    <string name="title_activity_jump">JumpActivity</string>
+</resources>
